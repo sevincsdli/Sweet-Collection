@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.general-first-line {
+  width: 100%;
+  height: 350px;
+}
+.general-second-line {
+  width: 100%;
+  height: 350px;
+}
+body {
+  color: white;
+}
+.sweet-1 {
+  width: 33%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-image: url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/7444aaa7ddf25c8fa5d46623/pexels-photo-1289365.jpeg");
+  background-size: cover;
+  background-position: center;
+  float: left;
+}
+.sweet-2 {
+  width: 33%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-image: url("	https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/1ea4bcec285e585fa33017f7/sugar-candy-sweet-pink.jpg");
+  background-size: cover;
+  background-position: center;
+  float: left;
+}
+.sweet-3 {
+  width: 33%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-image: url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/37dc0ca12f3f5366ae15e5a5/pexels-photo-776860.jpeg");
+  background-size: cover;
+  background-position: center;
+  float: left;
+}
+
+.sweet-4 {
+  width: 33%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-image: url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/557d9177cd9c50f088cc313c/pexels-photo-1330645.jpeg");
+  background-size: cover;
+  background-position: center;
+  float: left;
+}
+.sweet-5 {
+  width: 33%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-image: url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/e44ac71c6fc456a4b40719c5/pexels-photo-4016595.jpeg");
+  background-size: cover;
+  background-position: bottom;
+  float: left;
+}
+.sweet-6 {
+  width: 33%;
+  height: 350px;
+  background-repeat: no-repeat;
+  background-image: url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/08cabb04cf755af694e564fe/pexels-photo-1289363.jpeg");
+  background-size: cover;
+  background-position: center;
+  float: left;
+}
+@media (max-width: 768px) {
+  .sweet-1 {
+    width: 100%;
+  }
+  .sweet-2 {
+    width: 100%;
+  }
+
+  .sweet-3 {
+    width: 100%;
+  }
+  .sweet-4 {
+    width: 100%;
+  }
+
+  .sweet-5 {
+    width: 100%;
+  }
+  .sweet-6 {
+    width: 100%;
+  }
+}
+a {
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 1px;
+  border-bottom: 3px solid white;
+  position: relative;
+  top: 80%;
+}
+h3 {
+  position: relative;
+  top: 73%;
+}
